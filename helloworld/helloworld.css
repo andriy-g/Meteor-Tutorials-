@@ -1,1 +1,24 @@
 /* CSS declarations go here */
+body {
+  background: #d1e0e0;
+  font-style: italic;
+  font-size: 20px;
+  font-family: cursive;
+  width: 100px;
+   height: 100px;
+
+}
+
+button {
+background-color: black;
+ border-radius: 10px;
+ border: none;
+ color: #FFFFFF;
+ cursor: pointer;
+ display: inline-block;
+ font-family: Arial;
+ font-size: 20px;
+ padding: 5px 10px;
+ text-align: center;
+ text-decoration: none;
+}
